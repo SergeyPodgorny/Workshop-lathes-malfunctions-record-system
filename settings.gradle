@@ -1,0 +1,4 @@
+rootProject.name = 'workshop-lathes-malfunctions-record-system'
+include 'electricians-service'
+include 'config-service'
+
