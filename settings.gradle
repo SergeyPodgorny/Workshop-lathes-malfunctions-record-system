@@ -5,4 +5,5 @@ include 'registry-service'
 include 'malfunctions-service'
 include 'gateway-service'
 include 'notification-service'
+include 'users-service'
 

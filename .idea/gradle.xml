@@ -15,6 +15,7 @@
             <option value="$PROJECT_DIR$/malfunctions-service" />
             <option value="$PROJECT_DIR$/notification-service" />
             <option value="$PROJECT_DIR$/registry-service" />
+            <option value="$PROJECT_DIR$/users-service" />
           </set>
         </option>
       </GradleProjectSettings>
